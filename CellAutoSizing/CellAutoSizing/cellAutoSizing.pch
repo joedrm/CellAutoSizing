@@ -1,0 +1,20 @@
+//
+//  cellAutoSizing.pch
+//  CellAutoSizing
+//
+//  Created by wangfang on 16/4/16.
+//  Copyright © 2016年 WangDongYang. All rights reserved.
+//
+
+#ifndef cellAutoSizing_pch
+#define cellAutoSizing_pch
+
+#import "Marco.h"
+
+#import "MJExtension.h"
+#import "UIImageView+WebCache.h"
+#import "Masonry.h"
+
+
+
+#endif /* cellAutoSizing_pch */

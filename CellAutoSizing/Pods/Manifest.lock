@@ -1,0 +1,20 @@
+PODS:
+  - Masonry (0.6.4)
+  - MJExtension (2.0.4)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+
+DEPENDENCIES:
+  - Masonry (~> 0.6.1)
+  - MJExtension (~> 2.0.1)
+  - SDWebImage (~> 3.7)
+
+SPEC CHECKSUMS:
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  MJExtension: 90503779f5c2608b76b5b0f41efdb05c080d1976
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+
+PODFILE CHECKSUM: 00d05c845348f96e698cbe8e1faaf95f60bce647
+
+COCOAPODS: 1.0.0.beta.4

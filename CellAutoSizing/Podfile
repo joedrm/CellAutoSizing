@@ -1,0 +1,9 @@
+platform :ios, '7.0'
+use_frameworks!
+
+target ‘CellAutoSizing’ do
+    pod 'Masonry', '~> 0.6.1'
+    pod 'MJExtension', '~> 2.0.1'
+    pod 'SDWebImage', '~>3.7'
+    
+end
